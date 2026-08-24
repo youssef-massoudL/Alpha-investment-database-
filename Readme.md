@@ -13,7 +13,7 @@ A relational database system built with **Microsoft SQL Server 2022**, designed 
 
 ```
 alpha-investment-db/
-├── DATABASE FRESH CODE.sql     # DDL — Creates all tables, keys, and constraints
+├── DATABASE F CODE.sql     # DDL — Creates all tables, keys, and constraints
 ├── Alpha_INSERT_DATA.sql       # DML — Populates 10 clients, 10 advisors, 33 assets
 └── README.md
 ```
